@@ -2,10 +2,13 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchain-google-genai
 langchain-text-splitters
 chromadb
 sentence-transformers
+rank_bm25
 pypdf
 gradio==4.36.0
 huggingface_hub==0.24.7
 pydantic==2.7.4
+reportlab
